@@ -1,0 +1,7 @@
+{
+  "name": "vijaycs85/standard-templates",
+  "type": "drupal-template",
+  "require": {
+    "vijaycs85/drupal-template-installer-plugin": "^1"
+  }
+}
